@@ -7,7 +7,7 @@
       "price": "20",
       "category": "love",
       "image": "https://m.media-amazon.com/images/I/61IKJckL1YL._AC_UL480_FMwebp_QL65_.jpg",
-      "favourite": "no",
+      "new": "no",
       "id": "5b34"
     },
     {
@@ -16,7 +16,7 @@
       "author": "Morgan Housel ",
       "price": "40",
       "category": "success",
-      "favourite": "yes",
+      "new": "yes",
       "profile": "no",
       "image": "https://m.media-amazon.com/images/I/811Q+Ij6h0L._AC_UL480_FMwebp_QL65_.jpg",
       "id": "4329"
@@ -29,7 +29,7 @@
       "category": "success",
       "image": "https://m.media-amazon.com/images/I/41GdfpV-ojL._SY445_SX342_.jpg",
       "id": "276b",
-      "favourite": "yes"
+      "new": "yes"
     },
     {
       "name": "Salah Rules",
@@ -37,7 +37,7 @@
       "author": "Simon Mugford ",
       "price": "22",
       "category": "sports",
-      "favourite": "false",
+      "new": "false",
       "profile": "no",
       "image": "https://m.media-amazon.com/images/I/51KTAPDkyJL._SY445_SX342_.jpg",
       "id": "4951"
@@ -49,7 +49,7 @@
       "price": "70",
       "category": "programming",
       "image": "https://m.media-amazon.com/images/I/61Ea0Wo7LkL._SY466_.jpg",
-      "favourite": "false",
+      "new": "false",
       "id": "dc64"
     },
     {
@@ -62,16 +62,6 @@
       "favourite": "",
       "profile": "no",
       "id": "43b4"
-    },
-    {
-      "name": "You can",
-      "description": " Do you often wonder whether you really have it in you to accomplish your goals, to win over obstacles, and to succeed in life? Through the empowering self-help manual You Can, penned to promote personal growth and well-being for anyone ",
-      "author": "George Matthew ",
-      "price": "12",
-      "category": "success",
-      "image": "https://m.media-amazon.com/images/I/41AnbvGOT3L._SY445_SX342_.jpg",
-      "profile": "no",
-      "id": "90ee"
     },
     {
       "name": "Successful People",
@@ -100,7 +90,7 @@
       "category": "history",
       "image": "https://m.media-amazon.com/images/I/A1NFrm3xrbL._SY466_.jpg",
       "id": "b19d",
-      "favourite": "no"
+      "new": "no"
     },
     {
       "name": "Tools ",
@@ -119,7 +109,7 @@
       "category": "history",
       "image": "https://m.media-amazon.com/images/I/81fEw8i8omL._SY466_.jpg",
       "id": "bc44",
-      "favourite": "yes"
+      "new": "yes"
     },
     {
       "name": "5,000 Awesome Facts",
@@ -138,7 +128,7 @@
       "price": "25",
       "category": "sports",
       "image": "https://m.media-amazon.com/images/I/81ThXbrBmIL._SY466_.jpg",
-      "favourite": "yes",
+      "new": "yes",
       "id": "e65f"
     },
     {
@@ -168,7 +158,7 @@
       "price": "20",
       "category": "food",
       "image": "https://m.media-amazon.com/images/I/81zxvqsKdwS._SY466_.jpg",
-      "favourite": "yes"
+      "new": "yes"
     },
     {
       "name": "Carbs& Calorie Count",
@@ -185,7 +175,7 @@
       "author": "Colleen Hoover",
       "price": "17",
       "category": "fiction",
-      "favourite": "yes",
+      "new": "yes",
       "profile": "yes",
       "image": "https://m.media-amazon.com/images/I/51B5Njjh36L._SY445_SX342_.jpg",
       "id": "6d36"
@@ -233,7 +223,7 @@
       "price": "35",
       "category": "food",
       "image": "https://m.media-amazon.com/images/I/81wLQFlEYjL._SY466_.jpg",
-      "favourite": "yes",
+      "new": "yes",
       "profile": "yes",
       "id": "e4b6"
     },
@@ -253,7 +243,7 @@
       "price": "15",
       "category": "success",
       "image": "https://m.media-amazon.com/images/I/715u7p+38+L._SY466_.jpg",
-      "favourite": "",
+      "new": "",
       "profile": "no",
       "id": "fe91"
     },
@@ -265,7 +255,7 @@
       "price": "968",
       "category": "success",
       "image": "https://m.media-amazon.com/images/I/71xH0ALI4-L._SY466_.jpg",
-      "favourite": "yes",
+      "new": "yes",
       "profile": ""
     }
   ]
