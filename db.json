@@ -17,7 +17,7 @@
       "price": "40",
       "category": "success",
       "new": "yes",
-      "profile": "no",
+      "featured": "no",
       "image": "https://m.media-amazon.com/images/I/811Q+Ij6h0L._AC_UL480_FMwebp_QL65_.jpg",
       "id": "4329"
     },
@@ -38,7 +38,7 @@
       "price": "22",
       "category": "sports",
       "new": "false",
-      "profile": "no",
+      "featured": "no",
       "image": "https://m.media-amazon.com/images/I/51KTAPDkyJL._SY445_SX342_.jpg",
       "id": "4951"
     },
@@ -59,7 +59,7 @@
       "price": "25",
       "category": "love",
       "image": "https://m.media-amazon.com/images/I/71Hjo1JeEoL.__AC_SX300_SY300_QL70_ML2_.jpg",
-      "favourite": "",
+      "featured": "",
       "profile": "no",
       "id": "43b4"
     },
@@ -176,7 +176,7 @@
       "price": "17",
       "category": "fiction",
       "new": "yes",
-      "profile": "yes",
+      "featured": "yes",
       "image": "https://m.media-amazon.com/images/I/51B5Njjh36L._SY445_SX342_.jpg",
       "id": "6d36"
     },
@@ -224,7 +224,7 @@
       "category": "food",
       "image": "https://m.media-amazon.com/images/I/81wLQFlEYjL._SY466_.jpg",
       "new": "yes",
-      "profile": "yes",
+      "featured": "yes",
       "id": "e4b6"
     },
     {
@@ -244,7 +244,7 @@
       "category": "success",
       "image": "https://m.media-amazon.com/images/I/715u7p+38+L._SY466_.jpg",
       "new": "",
-      "profile": "no",
+      "featured": "no",
       "id": "fe91"
     },
     {
@@ -256,7 +256,7 @@
       "category": "success",
       "image": "https://m.media-amazon.com/images/I/71xH0ALI4-L._SY466_.jpg",
       "new": "yes",
-      "profile": ""
+      "featured": ""
     }
   ]
 }
